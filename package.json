@@ -1,0 +1,23 @@
+{
+  "name": "dsa-recursion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "counting-sheep.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon counting-sheep.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noahthedev/DSA-Recursion.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noahthedev/DSA-Recursion/issues"
+  },
+  "homepage": "https://github.com/noahthedev/DSA-Recursion#readme",
+  "dependencies": {
+    "nodemon": "^2.0.9"
+  }
+}
